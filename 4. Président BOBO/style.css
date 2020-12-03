@@ -1,0 +1,45 @@
+body {
+background: linear-gradient(to right, #fe8c00, #f83600);   min-height: 100vh;
+   text-align: center;
+   padding: 100px;
+   
+}
+.centre {
+  background: linear-gradient(to right, #f46b45, #eea849);  width: 88%;
+  padding: 40px;
+  height: 280px;
+
+}
+.text {
+    min-height: 28vh;
+}
+.centre h1 {
+    font-size: 30px;
+    text-align: left;
+
+
+}
+
+.centre p {
+    text-align: right;
+    font-style: oblique;
+    color: black;
+    text-transform: capitalize;
+    font-size: 15px;
+}
+
+#btn {
+    margin-top: 30px;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 25px;
+    border: black 0.3px solid;
+    background: linear-gradient(to right, #73c8a9, #373b44);
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+
+#btn:hover {
+    background: transparent;
+    color: #191716;
+}

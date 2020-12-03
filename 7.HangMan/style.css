@@ -1,0 +1,20 @@
+.a {
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(to right, #56ccf2, #2f80ed);
+    color: black;
+}
+.a:hover {
+    background: linear-gradient(to right, #52c234, #061700);
+}
+
+.b {
+    background: linear-gradient(to right, #e55d87, #5fc3e4);
+    margin-top: 50px;
+    color: black;
+ 
+}
+.b:hover {
+    background: linear-gradient(to right, #52c234, #061700);
+}
